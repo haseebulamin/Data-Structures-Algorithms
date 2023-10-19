@@ -1,4 +1,4 @@
-// Binary search in array 
+// Linear search in array 
 #include<iostream>
 using namespace std;
 
