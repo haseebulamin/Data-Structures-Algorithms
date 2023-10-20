@@ -39,7 +39,7 @@ int main()
     start->data=76;
     start->next=second;
     second->data=54;
-    second->next-NULL;
+    second->next=NULL;
     cout << "Original list: ";
     displayList(start);
     delete_last(&start);
