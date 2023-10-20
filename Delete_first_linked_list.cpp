@@ -41,7 +41,7 @@ int main()
     displayList(start);
     delete_first(&start);
     cout<<endl;
-    cout << "List after deleting the first node: ";
+    cout << "List after deleted the first node: ";
     displayList(start);
 
     return 0;
